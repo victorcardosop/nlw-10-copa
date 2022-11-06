@@ -5,9 +5,9 @@ Evento exclusivo e gratuito realizado do dia 31/10/2022 até 07/11/2022, promovi
 </p>
 
 <p align="center">
-<a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#memo-licença">Licença</a>
 </p>
 
@@ -18,7 +18,7 @@ Evento exclusivo e gratuito realizado do dia 31/10/2022 até 07/11/2022, promovi
 <br>
 
 <p align="center">
-<img alt="calendario da copa" src=".github/preview.JPG" width="100%">
+<img alt="calendario da copa" src="./.github/preview.JPG" width="100%">
 </p>
 
 ## Tecnologias
