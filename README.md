@@ -18,7 +18,7 @@ Evento exclusivo e gratuito realizado do dia 31/10/2022 até 07/11/2022, promovi
 <br>
 
 <p align="center">
-<img alt="calendario da copa" src="assets/Bandeiras dos países/icon=brazil.svg" width="100%">
+<img alt="calendario da copa" src="assets/preview.jpg" width="100%">
 </p>
 
 ## Tecnologias
