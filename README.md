@@ -18,7 +18,7 @@ Evento exclusivo e gratuito realizado do dia 31/10/2022 até 07/11/2022, promovi
 <br>
 
 <p align="center">
-<img alt="calendario da copa" src=".github/preview.png" width="100%">
+<img alt="calendario da copa" src=".github/preview.JPG" width="100%">
 </p>
 
 ## Tecnologias
